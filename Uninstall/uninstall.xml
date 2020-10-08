@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="iso-8859-1"?><SUF70UninstallData>
+<DataFilePath>C:\Program Files (x86)\Radial Menu\Uninstall\uninstall.dat</DataFilePath>
+<CPRegKey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Radial Menu1.8</CPRegKey>
+<EXELocation>C:\Program Files (x86)\Radial Menu\Uninstall\uninstall.exe</EXELocation>
+<AppShortcutFolderPath>C:\Users\gaert00l\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Radial Menu</AppShortcutFolderPath>
+<UninstallReverseOrder>1</UninstallReverseOrder>
+<UninstallFiles>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\RadialMenu_C.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\RadialMenu_C.exe.config</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\RadialMenu_C.exe.manifest</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\RadialMenu_C.application</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\SendKeyStrokes.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.Controls.Editors.XamComboEditor.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.Controls.Editors.XamSlider.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.Controls.Gauges.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.Controls.Interactions.XamDialogWindow.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.Controls.Maps.XamMap.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.Controls.Menus.XamMenu.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.Controls.Menus.XamRadialMenu.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.DataManager.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.DataPresenter.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.DataVisualization.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.Editors.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.Themes.IG.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.Themes.Metro.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.Themes.MetroDark.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.Themes.Office2010Blue.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.Themes.Office2013.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.Themes.RoyalDark.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.Themes.RoyalLight.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Radial Menu\InfragisticsWPF4.v17.2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+</UninstallFiles>
+<UninstallShortcuts>
+<Filename>C:\Users\gaert00l\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Radial Menu.lnk</Filename>
+<Filename>C:\Users\gaert00l\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Radial Menu\Radial Menu.lnk</Filename>
+</UninstallShortcuts>
+<UninstallSupportFiles>
+<Filename>C:\Program Files (x86)\Radial Menu\Uninstall\IRIMG1.JPG</Filename>
+<Filename>C:\Program Files (x86)\Radial Menu\Uninstall\IRIMG1.BMP</Filename>
+<Filename>C:\Program Files (x86)\Radial Menu\Uninstall\IRIMG2.JPG</Filename>
+<Filename>C:\Program Files (x86)\Radial Menu\Uninstall\IRIMG3.JPG</Filename>
+</UninstallSupportFiles>
+<UninstallFolders>
+<FolderPath>C:\Program Files (x86)\Radial Menu</FolderPath>
+<FolderPath>C:\Program Files (x86)\Radial Menu\Uninstall</FolderPath>
+<FolderPath>C:\Users\gaert00l\AppData\Roaming\Radial Menu</FolderPath>
+<FolderPath>C:\Users\gaert00l\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Radial Menu</FolderPath>
+</UninstallFolders>
+<SessionVars>
+<Var>
+<Name>%ProductName%</Name>
+<Value>Radial Menu</Value>
+</Var>
+<Var>
+<Name>%CompanyName%</Name>
+<Value>Jacob Iedema</Value>
+</Var>
+<Var>
+<Name>%ProductVer%</Name>
+<Value>1.8</Value>
+</Var>
+<Var>
+<Name>%Copyright%</Name>
+<Value>Copyright © 2015, 2016 %CompanyName%</Value>
+</Var>
+<Var>
+<Name>%CompanyURL%</Name>
+<Value>http://www.jacobiedema.nl/RadialMenu</Value>
+</Var>
+<Var>
+<Name>%WindowTitle%</Name>
+<Value>%ProductName% Setup</Value>
+</Var>
+<Var>
+<Name>%WindowTitleUninstall%</Name>
+<Value>%ProductName% Uninstaller</Value>
+</Var>
+<Var>
+<Name>%AppFolder%</Name>
+<Value>C:\Program Files (x86)\Radial Menu</Value>
+</Var>
+<Var>
+<Name>%AppShortcutFolderName%</Name>
+<Value>Radial Menu</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolder%</Name>
+<Value>C:\Users\gaert00l\AppData\Roaming</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolderCommon%</Name>
+<Value>C:\ProgramData</Value>
+</Var>
+<Var>
+<Name>%DesktopFolder%</Name>
+<Value>C:\Users\gaert00l\Desktop</Value>
+</Var>
+<Var>
+<Name>%DesktopFolderCommon%</Name>
+<Value>C:\Users\Public\Desktop</Value>
+</Var>
+<Var>
+<Name>%FontsFolder%</Name>
+<Value>C:\Windows\Fonts</Value>
+</Var>
+<Var>
+<Name>%MyDocumentsFolder%</Name>
+<Value>\\bre3fil03.hq.leschaco.org\UsersT\gaert00l\Data</Value>
+</Var>
+<Var>
+<Name>%StartFolder%</Name>
+<Value>C:\Users\gaert00l\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%StartFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolder%</Name>
+<Value>C:\Users\gaert00l\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%StartupFolder%</Name>
+<Value>C:\Users\gaert00l\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%StartupFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp</Value>
+</Var>
+<Var>
+<Name>%CommonDocumentsFolder%</Name>
+<Value>C:\Users\Public\Documents</Value>
+</Var>
+<Var>
+<Name>%MyMusicFolder%</Name>
+<Value>\\bre3fil03.hq.leschaco.org\UsersT\gaert00l\Data\My Music</Value>
+</Var>
+<Var>
+<Name>%MyMusicFolderCommon%</Name>
+<Value>C:\Users\Public\Music</Value>
+</Var>
+<Var>
+<Name>%MyPicturesFolder%</Name>
+<Value>\\bre3fil03.hq.leschaco.org\UsersT\gaert00l\Data\My Pictures</Value>
+</Var>
+<Var>
+<Name>%MyPicturesFolderCommon%</Name>
+<Value>C:\Users\Public\Pictures</Value>
+</Var>
+<Var>
+<Name>%MyVideosFolder%</Name>
+<Value>\\bre3fil03.hq.leschaco.org\UsersT\gaert00l\Data\My Videos</Value>
+</Var>
+<Var>
+<Name>%MyVideosFolderCommon%</Name>
+<Value>C:\Users\Public\Videos</Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder64%</Name>
+<Value>C:\Program Files</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder64%</Name>
+<Value>C:\Program Files\Common Files</Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder%</Name>
+<Value>C:\Program Files (x86)</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder%</Name>
+<Value>C:\Program Files (x86)\Common Files</Value>
+</Var>
+<Var>
+<Name>%SystemFolder%</Name>
+<Value>C:\WINDOWS\system32</Value>
+</Var>
+<Var>
+<Name>%WindowsFolder%</Name>
+<Value>C:\WINDOWS</Value>
+</Var>
+<Var>
+<Name>%SystemDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%TempFolder%</Name>
+<Value>C:\Users\gaert00l\AppData\Local\Temp</Value>
+</Var>
+<Var>
+<Name>%TempLaunchFolder%</Name>
+<Value>C:\Users\gaert00l\AppData\Local\Temp\_ir_sf_temp_0</Value>
+</Var>
+<Var>
+<Name>%RegOwner%</Name>
+<Value>Laternicht</Value>
+</Var>
+<Var>
+<Name>%RegOrganization%</Name>
+<Value></Value>
+</Var>
+<Var>
+<Name>%AppDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%DAOPath%</Name>
+<Value>C:\Program Files (x86)\Common Files\Microsoft Shared\DAO</Value>
+</Var>
+<Var>
+<Name>%LaunchUserName%</Name>
+<Value>gaert00l</Value>
+</Var>
+<Var>
+<Name>%LaunchUserDomain%</Name>
+<Value>HQ</Value>
+</Var>
+<Var>
+<Name>%LaunchUserApplicationDataFolder%</Name>
+<Value>C:\Users\gaert00l\AppData\Roaming</Value>
+</Var>
+<Var>
+<Name>%LaunchUserDesktopFolder%</Name>
+<Value>C:\Users\gaert00l\Desktop</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyDocumentsFolder%</Name>
+<Value>\\bre3fil03.hq.leschaco.org\UsersT\gaert00l\Data</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartProgramsFolder%</Name>
+<Value>C:\Users\gaert00l\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartFolder%</Name>
+<Value>C:\Users\gaert00l\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartupFolder%</Name>
+<Value>C:\Users\gaert00l\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyMusicFolder%</Name>
+<Value>\\bre3fil03.hq.leschaco.org\UsersT\gaert00l\Data\My Music</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyPicturesFolder%</Name>
+<Value>\\bre3fil03.hq.leschaco.org\UsersT\gaert00l\Data\My Pictures</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyVideosFolder%</Name>
+<Value>\\bre3fil03.hq.leschaco.org\UsersT\gaert00l\Data\My Videos</Value>
+</Var>
+<Var>
+<Name>%SourceFilename%</Name>
+<Value>C:\Users\gaert00l\Downloads\setup_fw45.exe</Value>
+</Var>
+<Var>
+<Name>%SourceFolder%</Name>
+<Value>C:\Users\gaert00l\Downloads</Value>
+</Var>
+<Var>
+<Name>%SourceDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%SpaceAvailable%</Name>
+<Value>5.85 GB</Value>
+</Var>
+<Var>
+<Name>%SpaceRequired%</Name>
+<Value>33.7 MB</Value>
+</Var>
+</SessionVars>
+</SUF70UninstallData>
